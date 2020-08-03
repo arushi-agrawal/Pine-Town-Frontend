@@ -1,0 +1,126 @@
+#cart{
+    background: #06106E 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+    margin-bottom: 20px;
+}
+
+h2 {
+    width: 20%;
+    text-align: center;
+    border-bottom: 1px solid #c6c6c5;
+    line-height: 0.1em;
+    margin-left:43%;
+    font-size:21px;
+    color: #363636;
+    opacity:80%;
+    padding-top:20px;
+}
+
+h2 span {
+    background:#fff;
+    padding:0px 20px;
+}
+
+@media screen and (min-width: 1400px){
+	.navbar img{
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+	}
+
+.navbar{
+    height: 60px;
+	}
+
+.box{
+	height: 12vw;
+}
+}
+
+@media screen and (max-width: 1400px) and (min-width: 1000px){
+	.navbar img{
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+.box{
+	height: 12vw;
+}
+}
+
+@media screen and (max-width: 1000px) and (min-width: 600px){
+	.navbar img{
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+.box{
+	height: 12vw;
+}
+}
+
+@media screen and (max-width: 500px) and (min-width:400px) {
+	    .navbar img{
+        width: 270px;
+        position: relative;
+        top: -27px;
+        left: -30px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+	
+	.box{
+	height: 33.3vw;
+}
+}
+
+@media screen and (max-width: 400px) and (min-width: 350px) {
+	.navbar img{
+        width: 250px;
+        position: relative;
+        top: -32px;
+        left: -30px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+	
+		.box{
+	height: 33.3vw;
+}
+}
+
+@media screen and (max-width: 350px) and (min-width:300px) {
+	.navbar img{
+        width: 200px;
+        position: relative;
+        top: -27px;
+        left: -30px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+	
+		.box{
+	height: 33.3vw;
+}
+}
