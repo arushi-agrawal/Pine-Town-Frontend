@@ -1,0 +1,1067 @@
+/*.navbar img{
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+
+#lightblue{
+	height: 71.8%;
+	position: absolute;
+	top: 8%;
+	left: 42%;
+	opacity: 0.54;
+	z-index: 9;
+}
+ 
+#darkblue{
+	height: 64.6%;
+	position: absolute;
+	top: 42%;
+	right: 42%;
+	z-index: 8;
+}
+ 
+#besidehome{
+	height: 40%;
+	position: absolute;
+	right: 95%;
+	top: 20%;
+	z-index: 10;
+}
+ 
+#besidegroceries{
+	height: 40%;
+	position: absolute;
+	left: 94%;
+	top: 60%;
+	z-index: 10;
+}
+
+#whitebghome{
+    height: 68%;
+    position: absolute;
+    z-index:10;
+    top: 41%;
+    right: 58%;
+}
+
+#whitebggroceries{
+    height: 75%;
+    position: absolute;
+    z-index:10;
+    top: 7.5%;
+    left: 58%;
+}
+#groceriesillustration{
+    height: 33%;
+    position: absolute;
+    z-index:10;
+    top: 52%;
+    left: 62.5%;
+}
+#homeillustration{
+    height: 37%;
+    position: absolute;
+    z-index:10;
+    top: 28%;
+	right: 61%;
+}
+#rooms{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 70%;
+    right: 61.5%;
+}
+#groceries{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 32%;
+    left: 62.5%;
+}
+
+fieldset{
+	border: 1px solid #89BAF4;
+	border-radius: 9px;
+	position: absolute;
+	top: 109%;
+	left: 5%;
+	width: 90%;
+}
+
+fieldset p{
+	color: #141414;
+	font-family: 'Segoe UI';
+	font-size: 20px;
+	padding: 60px 80px;
+}
+
+body{
+
+}
+
+.footer{
+	width: 100%;
+	height: 20%;
+	background-color: #06106E;
+	border: 1px solid #707070;
+	position: absolute;
+	top: 200%;
+}
+
+.box{
+    width: 15vw;
+	height: 15vw;
+    background: #89BAF4;
+	border: 1px solid #707070;
+}
+
+@media screen and (max-width: 500px) {
+    .navbar img{
+        width: 250px;
+        position: relative;
+        top: -18px;
+        left: -23px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+}*/
+
+/*.navbar img{
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+
+#lightblue{
+	width: 58%;
+	position: absolute;
+	left: 42%;
+	opacity: 0.54;
+	z-index: 9;
+}
+ 
+#darkblue{
+	width: 58%;
+	position: absolute;
+	top: 42%;
+	z-index: 8;
+}
+ 
+#besidehome{
+	height: 40%;
+	position: absolute;
+	right: 95%;
+	top: 20%;
+	z-index: 10;
+}
+ 
+#besidegroceries{
+	height: 40%;
+	position: absolute;
+	left: 94%;
+	top: 47%;
+	z-index: 10;
+}
+
+#whitebghome{
+    height: 70%;
+    position: absolute;
+    z-index:10;
+    top: 30%;
+    left: 14.85%
+    
+   
+}
+#whitebggroceries{
+    height: 70%;
+    position: absolute;
+    z-index:10;
+    top: 7%;
+    left: 58%;
+}
+#groceriesillustration{
+    height: 33%;
+    position: absolute;
+    z-index:10;
+    top: 52%;
+    left: 62.5%;
+}
+#homeillustration{
+    height: 37%;
+    position: absolute;
+    z-index:10;
+    top: 28%;
+    left: 19%;
+}
+#rooms{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 70%;
+    left: 18.5%;
+}
+#groceries{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 32%;
+    left: 62.5%;
+}
+
+fieldset{
+	border: 1px solid #89BAF4;
+	border-radius: 9px;
+	position: absolute;
+	top: 109%;
+	left: 5%;
+	width: 90%;
+}
+
+fieldset p{
+	color: #141414;
+	font-family: 'Segoe UI';
+	font-size: 20px;
+	padding: 60px 80px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.footer{
+	width: 100%;
+	height: 20%;
+	background-color: #06106E;
+	border: 1px solid #707070;
+	position: absolute;
+	top: 200%;
+}
+
+.box{
+    width: 15vw;
+	height: 15vw;
+    background: #89BAF4;
+	border: 1px solid #707070;
+}
+
+@media screen and (max-width: 500px) {
+    .navbar img{
+        width: 250px;
+        position: relative;
+        top: -18px;
+        left: -23px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+}*/
+
+@media screen and (min-width: 1400px){
+.navbar img{
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+
+#lightblue{
+    height: 71.8%;
+    position: absolute;
+    top: 8%;
+    left: 42%;
+    opacity: 0.54;
+    z-index: 9;
+}
+
+#darkblue{
+    height: 64.6%;
+    position: absolute;
+    top: 42%;
+	right: 42%;
+    z-index: 8;
+}
+
+#besidehome{
+    height: 40%;
+    position: absolute;
+    right: 95%;
+    top: 20%;
+    z-index: 10;
+}
+
+#besidegroceries{
+    height: 40%;
+    position: absolute;
+    left: 94%;
+    top: 60%;
+    z-index: 10;
+}
+
+#whitebghome{
+    height: 68%;
+    position: absolute;
+    z-index:10;
+    top: 41%;
+    right: 58%;
+}
+
+#whitebggroceries{
+    height: 75%;
+    position: absolute;
+    z-index:10;
+    top: 7.5%;
+    left: 58%;
+}
+#groceriesillustration{
+    height: 33%;
+    position: absolute;
+    z-index:10;
+    top: 52%;
+    left: 62.5%;
+}
+#homeillustration{
+    height: 37%;
+    position: absolute;
+    z-index:10;
+    top: 28%;
+    right: 61%;
+}
+#rooms{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 70%;
+    right: 61.5%;
+}
+#groceries{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 32%;
+    left: 62.5%;
+}
+
+fieldset{
+    border: 1px solid #89BAF4;
+    border-radius: 9px;
+    position: absolute;
+    top: 109%;
+    left: 5%;
+    width: 90%;
+}
+
+fieldset p{
+    color: #141414;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    padding: 60px 80px;
+}
+
+legend{
+	width: 190px;
+	margin-left: 100px;
+	padding-left: 17px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.footer{
+    width: 100%;
+    height: 20%;
+    background-color: #06106E;
+    border: 1px solid #707070;
+    position: absolute;
+	top: 200%;
+}
+
+.box{
+    width: 15vw;
+    height: 15vw;
+    background: #89BAF4;
+    border: 1px solid #707070;
+}
+}
+
+@media screen and (max-width: 1400px) and (min-width: 1000px){
+.navbar img{
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+
+#lightblue{
+    height: 71.8%;
+    position: absolute;
+    top: 8%;
+    left: 42%;
+    opacity: 0.54;
+    z-index: 9;
+}
+
+#darkblue{
+    height: 64.6%;
+    position: absolute;
+    top: 42%;
+	right: 42%;
+    z-index: 8;
+}
+
+#besidehome{
+    height: 40%;
+    position: absolute;
+    right: 95%;
+    top: 20%;
+    z-index: 10;
+}
+
+#besidegroceries{
+    height: 40%;
+    position: absolute;
+    left: 96%;
+    top: 60%;
+    z-index: 10;
+}
+
+#whitebghome{
+    height: 68%;
+    position: absolute;
+    z-index:10;
+    top: 41%;
+    right: 58%;
+}
+
+#whitebggroceries{
+    height: 75%;
+    position: absolute;
+    z-index:10;
+    top: 7.5%;
+    left: 58%;
+}
+#groceriesillustration{
+    height: 33%;
+    position: absolute;
+    z-index:10;
+    top: 52%;
+    left: 62.5%;
+}
+#homeillustration{
+    height: 37%;
+    position: absolute;
+    z-index:10;
+    top: 28%;
+    right: 61%;
+}
+#rooms{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 70%;
+    right: 61.5%;
+}
+#groceries{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 32%;
+    left: 62.5%;
+}
+
+fieldset{
+    border: 1px solid #89BAF4;
+    border-radius: 9px;
+    position: absolute;
+    top: 109%;
+    left: 5%;
+    width: 90%;
+}
+
+fieldset p{
+    color: #141414;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    padding: 60px 80px;
+}
+
+legend{
+	width: 190px;
+	margin-left: 100px;
+	padding-left: 17px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.footer{
+    width: 100%;
+    height: 20%;
+    background-color: #06106E;
+    border: 1px solid #707070;
+    position: absolute;
+	top: 200%;
+}
+
+.box{
+    width: 15vw;
+    height: 15vw;
+    background: #89BAF4;
+    border: 1px solid #707070;
+}
+}
+
+@media screen and (max-width: 1000px) and (min-width: 600px){
+.navbar img{
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+
+#lightblue{
+    height: 71.8%;
+    position: absolute;
+    top: 12%;
+    left: 42%;
+    opacity: 0.54;
+    z-index: 9;
+}
+
+#darkblue{
+    height: 64.6%;
+    position: absolute;
+    top: 46%;
+	right: 42%;
+    z-index: 8;
+}
+
+#besidehome{
+    height: 40%;
+    position: absolute;
+    right: 95%;
+    top: 24%;
+    z-index: 10;
+}
+
+#besidegroceries{
+    height: 40%;
+    position: absolute;
+    left: 96%;
+    top: 64%;
+    z-index: 10;
+}
+
+#whitebghome{
+    height: 68%;
+    position: absolute;
+    z-index:10;
+    top: 45%;
+    right: 58%;
+}
+
+#whitebggroceries{
+    height: 75%;
+    position: absolute;
+    z-index:10;
+    top: 11.5%;
+    left: 58%;
+}
+#groceriesillustration{
+    height: 33%;
+    position: absolute;
+    z-index:10;
+    top: 56%;
+    left: 62.5%;
+}
+#homeillustration{
+    height: 37%;
+    position: absolute;
+    z-index:10;
+    top: 32%;
+    right: 61%;
+}
+#rooms{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 74%;
+    right: 61.5%;
+}
+#groceries{
+    height: 8.5%;
+    position: absolute;
+    z-index:10;
+    top: 36%;
+    left: 62.5%;
+}
+
+fieldset{
+    border: 1px solid #89BAF4;
+    border-radius: 9px;
+    position: absolute;
+    top: 109%;
+    left: 5%;
+    width: 90%;
+}
+
+fieldset p{
+    color: #141414;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    padding: 60px 80px;
+}
+
+legend{
+	width: 190px;
+	margin-left: 100px;
+	padding-left: 17px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.footer{
+    width: 100%;
+    height: 20%;
+    background-color: #06106E;
+    border: 1px solid #707070;
+    position: absolute;
+	top: 330%;
+}
+
+.box{
+    width: 15vw;
+    height: 15vw;
+    background: #89BAF4;
+    border: 1px solid #707070;
+}
+}
+
+@media screen and (max-width: 500px) and (min-width:400px) {
+    .navbar img{
+        width: 270px;
+        position: relative;
+        top: -27px;
+        left: -30px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    
+    #darkblue{
+        height: 31.2%;
+        position: absolute;
+        top: 25%;
+        z-index: 8;
+    }
+    #besidehome{
+        height: 22%;
+        position: absolute;
+        right: 89.5%;
+        top: 15%;
+        z-index: 10;
+    }
+    #whitebghome{
+        height: 46%;
+        position: absolute;
+        z-index:10;
+        top: 21%;
+        left:21%
+        
+    }
+    #homeillustration{
+        height: 27%;
+        position: absolute;
+        z-index:10;
+        top: 18%;
+        left:27%;
+    }
+    #rooms{
+        height: 5.5%;
+        position: absolute;
+        z-index:10;
+        top: 48%;
+        left:28%;
+    }
+    
+    #lightblue{
+        height: 34.7%;
+        position: absolute;
+        top: 67%;
+        right: 0%;
+        opacity: 0.54;
+        z-index: 9;
+    }
+    #whitebggroceries{
+        height: 46%;
+        position: absolute;
+        z-index:10;
+        top: 57.5%;
+        left:21%
+    }
+    #groceriesillustration{
+        height: 25%;
+        position: absolute;
+        z-index:10;
+        top: 77%;
+        left: 25.5%;
+    }
+    #groceries{
+        height: 5.5%;
+        position: absolute;
+        z-index:10;
+        top: 69%;
+        left: 30.5%;
+    }
+    #besidegroceries{
+        height: 20%;
+        position: absolute;
+        left: 90%;
+        top: 92%;
+        z-index: 10;
+    }
+    
+    fieldset{
+        border: 1px solid #89BAF4;
+        border-radius: 9px;
+        position: absolute;
+        top: 109%;
+        left: 5%;
+        width: 90%;
+    }
+    
+    fieldset p{
+        color: #141414;
+        font-family: 'Segoe UI';
+        font-size: 18px;
+        padding: 30px 35px;
+        text-align: center;
+    }
+	
+	legend{
+	width: 190px;
+	margin-left: 100px;
+	padding-left: 17px;
+	}
+    
+    body{
+        overflow-x: hidden!important;
+    }
+    
+    .footer{
+        width: 100%;
+        height: 20%;
+        background-color: #06106E;
+        border: 1px solid #707070;
+        position: absolute;
+        top: 330%;
+    }
+    
+    .box{
+        width: 50vw;
+        height: 50vw;
+        background: #89BAF4;
+        border: 1px solid #707070;
+        
+    }
+    
+    
+}
+
+@media screen and (max-width: 400px) and (min-width: 350px) {
+    .navbar img{
+        width: 250px;
+        position: relative;
+        top: -32px;
+        left: -30px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    #darkblue{
+        height: 26.6%;
+        position: absolute;
+        top: 25%;
+        z-index: 8;
+    }
+    #besidehome{
+        height: 22%;
+        position: absolute;
+        right: 88%;
+        top: 15%;
+        z-index: 10;
+    }
+    #whitebghome{
+        height: 46%;
+        position: absolute;
+        z-index:10;
+        top: 21%;
+        left:21%
+        
+    }
+    #homeillustration{
+        height: 27%;
+        position: absolute;
+        z-index:10;
+        top: 20%;
+        left:27%;
+    }
+    #rooms{
+        height: 5.5%;
+        position: absolute;
+        z-index:10;
+        top: 50%;
+        left:28%;
+    }
+    
+    #lightblue{
+        height: 29.5%;
+        position: absolute;
+        top: 67%;
+        right: 0%;
+        opacity: 0.54;
+        z-index: 9;
+    }
+    #whitebggroceries{
+        height: 46%;
+        position: absolute;
+        z-index:10;
+        top: 57.5%;
+        left:21%
+    }
+    #groceriesillustration{
+        height: 25%;
+        position: absolute;
+        z-index:10;
+        top: 70%;
+        left: 28%;
+    }
+    #groceries{
+        height: 5.5%;
+        position: absolute;
+        z-index:10;
+        top: 62%;
+        left: 31.5%;
+    }
+    #besidegroceries{
+        height: 20%;
+        position: absolute;
+        left: 90%;
+        top: 87%;
+        z-index: 10;
+    }
+    
+    fieldset{
+        border: 1px solid #89BAF4;
+        border-radius: 9px;
+        position: absolute;
+        top: 109%;
+        left: 5%;
+        width: 90%;
+    }
+    
+    fieldset p{
+        color: #141414;
+        font-family: 'Segoe UI';
+        font-size: 18px;
+        padding: 30px 35px;
+        text-align: center;
+    }
+	legend{
+		width: 190px;
+		margin-left: 70px;
+		padding-left: 17px;
+	}
+    
+    body{
+        overflow-x: hidden;
+    }
+    
+    .footer{
+        width: 100%;
+        height: 20%;
+        background-color: #06106E;
+        border: 1px solid #707070;
+        position: absolute;
+        top: 360%;
+    }
+    
+    .box{
+        width: 50vw;
+        height: 50vw;
+        background: #89BAF4;
+        border: 1px solid #707070;
+        
+    }
+    
+    
+}
+
+@media screen and (max-width: 350px) and (min-width:300px) {
+    .navbar img{
+        width: 200px;
+        position: relative;
+        top: -27px;
+        left: -30px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    
+    #darkblue{
+        height: 31.2%;
+        position: absolute;
+        top: 25%;
+        z-index: 8;
+    }
+    #besidehome{
+        height: 22%;
+        position: absolute;
+        right: 89.5%;
+        top: 15%;
+        z-index: 10;
+    }
+    #whitebghome{
+        height: 46%;
+        position: absolute;
+        z-index:10;
+        top: 21%;
+        left:21%
+        
+    }
+    #homeillustration{
+        height: 27%;
+        position: absolute;
+        z-index:10;
+        top: 18%;
+        left:27%;
+    }
+    #rooms{
+        height: 5.5%;
+        position: absolute;
+        z-index:10;
+        top: 48%;
+        left:28%;
+    }
+    
+    #lightblue{
+        height: 34.7%;
+        position: absolute;
+        top: 67%;
+        right: 0%;
+        opacity: 0.54;
+        z-index: 9;
+    }
+    #whitebggroceries{
+        height: 46%;
+        position: absolute;
+        z-index:10;
+        top: 57.5%;
+        left:21%
+    }
+    #groceriesillustration{
+        height: 25%;
+        position: absolute;
+        z-index:10;
+        top: 77%;
+        left: 25.5%;
+    }
+    #groceries{
+        height: 5.5%;
+        position: absolute;
+        z-index:10;
+        top: 69%;
+        left: 30.5%;
+    }
+    #besidegroceries{
+        height: 20%;
+        position: absolute;
+        left: 90%;
+        top: 92%;
+        z-index: 10;
+    }
+    
+    fieldset{
+        border: 1px solid #89BAF4;
+        border-radius: 9px;
+        position: absolute;
+        top: 109%;
+        left: 5%;
+        width: 90%;
+    }
+    
+    fieldset p{
+        color: #141414;
+        font-family: 'Segoe UI';
+        font-size: 18px;
+        padding: 30px 35px;
+        text-align: center;
+    }
+	
+	legend{
+		width: 190px;
+		margin-left: 50px;
+		padding-left: 17px;
+	}
+    
+    body{
+        overflow-x: hidden;
+    }
+    
+    .footer{
+        width: 100%;
+        height: 20%;
+        background-color: #06106E;
+        border: 1px solid #707070;
+        position: absolute;
+        top: 380%;
+    }
+    
+    .box{
+        width: 50vw;
+        height: 50vw;
+        background: #89BAF4;
+        border: 1px solid #707070;
+        
+    }
+    
+    
+}
