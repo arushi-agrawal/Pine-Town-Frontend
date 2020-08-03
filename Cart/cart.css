@@ -1,0 +1,72 @@
+#cart{
+    background: #06106E 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+    margin-bottom: 20px;
+}
+
+.navbar img{
+    width: 400px;
+    position: relative;
+    top: -19px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 55px;
+}
+h2 {
+    width: 20%;
+    text-align: center;
+    border-bottom: 1px solid #c6c6c5;
+    line-height: 0.1em;
+    margin-left:43%;
+    font-size:21px;
+    color: #363636;
+    opacity:80%;
+    padding-top:20px;
+}
+
+h2 span {
+    background:#fff;
+    padding:0px 20px;
+}
+#back{
+    margin-left:40px;
+    
+}
+#entire{
+    margin:0px 190px;
+    
+}
+p{
+    text-align: center;
+    font-family:Segoe UI;
+    letter-spacing: 0;
+    color: #363636;
+    opacity: 1;
+    font-size:16px;
+    padding:50px 5px;
+}
+h4{
+    
+    font-family:Segoe UI;
+    letter-spacing: 0;
+    color: #686868;
+    opacity: 1;
+    font-size:21px;
+    
+}
+h3{
+    
+    font-family:Segoe UI;
+    letter-spacing: 0;
+    color: #686868;
+    opacity: 1
+}
+#total{
+    padding-left: 80px;
+}
