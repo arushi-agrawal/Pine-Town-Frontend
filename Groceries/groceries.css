@@ -1,0 +1,112 @@
+#cart{
+    background: #06106E 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+    margin-bottom: 20px;
+}
+
+.navbar img{
+    width: 405px;
+    position: relative;
+    top: -16px;
+    left: -66px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    height: 60px;
+}
+h2 {
+    width: 20%;
+    text-align: center;
+    border-bottom: 1px solid #c6c6c5;
+    line-height: 0.1em;
+    margin-left:43%;
+    font-size:21px;
+    color: #363636;
+    opacity:80%;
+    padding-top:20px;
+}
+
+h2 span {
+    background:#fff;
+    padding:0px 20px;
+}
+#back{
+    margin-left:40px;
+    
+}
+#item{
+    border: solid #DCDCDC;
+    margin:66px;
+    padding-bottom: 20px;
+}
+
+#item button{
+    border-radius: 0px 15px 15px 20px;
+    padding:5px 20px;
+    background-color: #06106E;
+    color: white;
+}
+
+#item button:visited{
+    border-radius: 0px 15px 15px 20px;
+    padding:5px 20px;
+    background-color: white;
+    color: #06106E;
+    border: 1px solid #06106E;
+}
+
+#item button:focus{
+    border-radius: 0px 15px 15px 20px;
+    padding:5px 20px;
+    background-color: white;
+    color: #06106E;
+    border: 1px solid #06106E;
+}
+
+#cut {
+    text-align: center;
+    border-bottom: .3px solid #363636;;
+    line-height: 0.1em;
+    font-size:13px;
+    color: #363636;
+    opacity:90%;
+}
+
+@media screen and (max-width: 500px){
+    .navbar img{
+        width: 250px;
+        position: relative;
+        top: -32px;
+        left: -30px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+
+    }
+    h2 {
+        width: 50%;
+        text-align: center;
+        border-bottom: 1px solid #c6c6c5;
+        line-height: 0.1em;
+        margin:7px auto;
+        font-size:17px;
+        color: #363636;
+        opacity:80%;
+        padding-top:20px;
+    }
+    
+    h2 span {
+        background:#fff;
+        padding:0px 20px;
+    }
+    #back{
+        margin-left:20px;
+        font-family:Century Gothic;
+        font-size:19px;
+        
+        
+    }
+}
